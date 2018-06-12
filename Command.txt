@@ -1,0 +1,2 @@
+to train from scratch run = python classifier.py
+to test the tweet run= python sentiment.py -tw="i am sleep deprived"
